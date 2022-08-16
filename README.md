@@ -1,0 +1,5 @@
+- 👋 ola, meu nome é @rodrigosimplicio
+- meu email de contato é rodrigo.simplicio.viana@escola.pr.gov.br
+- 👀 eu estou interessado em aprender novas linguagens.
+- 🌱 estou aprendendo a programar recentemente a linguagem do javaScript e scratch
+-
